@@ -1,16 +1,70 @@
-### Hi there 👋
+# 👨‍💻 About me:
+- 👋 Hi, I’m Daniele D'Alonzo.
+- ‍🎓 IT and software engineering student.
+- 👀 Love making life easier coding.
 
-<!--
-**dalonzoo/dalonzoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+from Rome, Italy 🇮🇹
 
-Here are some ideas to get you started:
+# 🌍 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/danieledalonzo/)
+[![Goodle Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/developer?id=Daniele+D%27Alonzo&hl=en&gl=US)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+<!---
+LOGHI: https://simpleicons.org/
 -->
+
+# </> Languages:
+[![C](https://skillicons.dev/icons?i=c)](https://www.open-std.org/jtc1/sc22/wg14/)                             <!-- Linguaggi -->
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+
+
+<!-- [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)       -->                        <!-- Siti -->
+
+
+
+# 🛠️ Skills:
+[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/aftereffects.html)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/audition.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/illustrator.html)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/photoshop.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge)](https://www.adobe.com/it/products/premiere.html)
+[![AMPL](https://img.shields.io/badge/AMPL-000000?&style=for-the-badge)](https://ampl.com/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge)](https://www.android.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge)](https://developer.android.com/studio)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)](https://www.arduino.cc/)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge)](https://www.blender.org/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge)](https://www.canva.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=black&style=for-the-badge)](https://www.cloudflare.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)](https://www.eclipse.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)](https://firebase.google.com/)
+[![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge)](https://www.gimp.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)](https://www.gnu.org/software/bash/)
+[![IFTTT](https://img.shields.io/badge/IFTTT-000000?logo=ifttt&logoColor=white&style=for-the-badge)](https://ifttt.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge)](https://jupyter.org/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge)](https://www.latex-project.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-A27BE7?logo=microsoft&logoColor=white&style=for-the-badge)](https://www.office.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge)](https://stackoverflow.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge)](https://unity.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge)](https://www.unrealengine.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)](https://visualstudio.microsoft.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
+[![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?logo=wolfram&logoColor=white&style=for-the-badge)](https://www.wolframalpha.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)](https://wordpress.org/)
+
+
+
+# 📊 Statistics:
+[![](https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/dalonzoo/)
