@@ -24,7 +24,7 @@ LOGHI: https://simpleicons.org/
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node JS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 <!-- [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org/)       -->                        <!-- Siti -->
 
@@ -43,9 +43,6 @@ LOGHI: https://simpleicons.org/
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) - 
 ![CCNA Cisco](https://img.shields.io/badge/CCNA%20Cisco-1A1A1A?logo=cisco&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
 
 # 📊 Statistics:
