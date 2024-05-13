@@ -46,4 +46,4 @@ LOGHI: https://simpleicons.org/
 
 
 # 📊 Statistics:
-[![](https://komarev.com/ghpvc/?username=ilgalghi&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/dalonzoo/)
+[![](https://komarev.com/ghpvc/?username=dalonzoo&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/dalonzoo/)
