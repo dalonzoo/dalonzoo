@@ -6,7 +6,7 @@
 from Rome, Italy 🇮🇹
 
 # 🌍 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/danieledalonzo/](https://www.linkedin.com/in/daniele-d%E2%80%99alonzo-268267208/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/daniele-d%E2%80%99alonzo-268267208/])
 [![Goodle Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/developer?id=Daniele+D%27Alonzo&hl=en&gl=US)
 
 
